@@ -6,7 +6,7 @@ ExtWeb is a specialized Android application designed to transform your smartphon
 ![Screenshot 1](images/scr1.png)
 ![Screenshot 2](images/scr2.png)
 ![Screenshot 3](images/scr3.png)
-![Screenshot 4](images/scr3.png)
+![Screenshot 4](images/scr4.png)
 
 ## 🚀 Features
 
