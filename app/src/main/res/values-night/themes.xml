@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ExtWeb" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/g</item>
+        <item name="fontFamily">@font/g</item>
+        <item name="colorIconMenu">@color/white</item>
+        <!-- Same global dialog theme -->
+        <item name="materialAlertDialogTheme">@style/Theme.App.MaterialAlertDialog.Expressive</item>
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExtWeb</string>
+    <string name="package_id">fano.ui.extweb</string>
+    <string name="ver_ID">EWB-v0.1</string>
+</resources>

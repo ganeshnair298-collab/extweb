@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExtWeb" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/g</item>
+        <item name="fontFamily">@font/g</item>
+        <item name="colorIconMenu">@color/black</item>
+        <!-- Use our custom full Theme for dialogs -->
+        <item name="materialAlertDialogTheme">@style/Theme.App.MaterialAlertDialog.Expressive</item>
+    </style>
+
+    <style name="Theme.ExtWeb" parent="Base.Theme.ExtWeb" />
+
+    <!-- Custom Expressive Dialog Theme (Full Theme, not Overlay) -->
+    <style name="Theme.App.MaterialAlertDialog.Expressive" parent="Theme.Material3.DayNight.Dialog.Alert">
+        <!-- Center the title, icon, and text -->
+        <!-- Text Appearances -->
+        <item name="materialAlertDialogTitleTextStyle">@style/TextAppearance.App.MaterialAlertDialog.Title</item>
+        <item name="materialAlertDialogBodyTextStyle">@style/TextAppearance.App.MaterialAlertDialog.Message</item>
+    </style>
+
+    <style name="TextAppearance.App.MaterialAlertDialog.Title" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="fontFamily">@font/g</item>
+        <item name="android:fontFamily">@font/g</item>
+    </style>
+
+    <style name="TextAppearance.App.MaterialAlertDialog.Message" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="fontFamily">@font/g</item>
+        <item name="android:fontFamily">@font/g</item>
+    </style>
+</resources>
