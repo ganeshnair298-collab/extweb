@@ -39,7 +39,7 @@ ExtWeb is a specialized Android application designed to transform your smartphon
 ### Getting Started
 1. **Clone the Project**:
    ```bash
-   git clone https://github.com/yourusername/ExtWeb.git
+   git clone https://github.com/ganeshnair298-collab/extweb.git
    ```
 2. **Open in Android Studio**:
    Open Android Studio and select `File > Open`, then navigate to the cloned directory.
