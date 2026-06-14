@@ -2,6 +2,11 @@
 
 ExtWeb is a specialized Android application designed to transform your smartphone into a powerful remote control for web presentations on external displays or projectors. It leverages the Android Presentation API to provide a seamless dual-screen experience.
 
+# Screenshot
+![Screenshot 1](images/scr1.png)
+![Screenshot 2](images/scr2.png)
+![Screenshot 3](images/scr3.png)
+
 ## 🚀 Features
 
 ### 📺 Presentation Mode
